@@ -1,0 +1,6 @@
+{
+  "name": "Mona & Josh",
+  "description": "AI-Powered Academic Research Assistant dedicated exclusively to academic research with voice input, citation generation, smart notes, and PDF analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
